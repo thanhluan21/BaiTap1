@@ -1,0 +1,16 @@
+D:\batbongbo\batbongbo\obj\Debug\net5.0\batbongbo.csprojAssemblyReference.cache
+D:\batbongbo\batbongbo\obj\Debug\net5.0\batbongbo.GeneratedMSBuildEditorConfig.editorconfig
+D:\batbongbo\batbongbo\obj\Debug\net5.0\batbongbo.AssemblyInfoInputs.cache
+D:\batbongbo\batbongbo\obj\Debug\net5.0\batbongbo.AssemblyInfo.cs
+D:\batbongbo\batbongbo\obj\Debug\net5.0\batbongbo.csproj.CoreCompileInputs.cache
+D:\batbongbo\batbongbo\bin\Debug\net5.0\batbongbo.exe
+D:\batbongbo\batbongbo\bin\Debug\net5.0\batbongbo.deps.json
+D:\batbongbo\batbongbo\bin\Debug\net5.0\batbongbo.runtimeconfig.json
+D:\batbongbo\batbongbo\bin\Debug\net5.0\batbongbo.runtimeconfig.dev.json
+D:\batbongbo\batbongbo\bin\Debug\net5.0\batbongbo.dll
+D:\batbongbo\batbongbo\bin\Debug\net5.0\ref\batbongbo.dll
+D:\batbongbo\batbongbo\bin\Debug\net5.0\batbongbo.pdb
+D:\batbongbo\batbongbo\obj\Debug\net5.0\batbongbo.dll
+D:\batbongbo\batbongbo\obj\Debug\net5.0\ref\batbongbo.dll
+D:\batbongbo\batbongbo\obj\Debug\net5.0\batbongbo.pdb
+D:\batbongbo\batbongbo\obj\Debug\net5.0\batbongbo.genruntimeconfig.cache
